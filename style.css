@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #f0f4f8;
+  background-color: #a4c8dd;
   color: #222;
   line-height: 1.6;
 }
 
 header {
-  background: #4B0082; /* Indigo */
+  background: #456375; /* Indigo */
   color: #ffffff;
   padding: 2rem 0;
   text-align: center;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #00ced1; /* Dark Turquoise */
+  color: #0dcacd; /* Dark Turquoise */
 }
 
 section {
