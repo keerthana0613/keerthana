@@ -6,13 +6,13 @@
 
 body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  background-color: #a4c8dd;
+  background-color: #e9ece8;
   color: #222;
   line-height: 1.6;
 }
 
 header {
-  background: #456375; /* Indigo */
+  background: #94cb7a; /* Indigo */
   color: #ffffff;
   padding: 2rem 0;
   text-align: center;
@@ -32,7 +32,7 @@ nav {
 }
 
 nav a {
-  color: #ffffff;
+  color: #f5f9fa;
   margin: 0 15px;
   text-decoration: none;
   font-weight: bold;
@@ -40,7 +40,7 @@ nav a {
 }
 
 nav a:hover {
-  color: #0dcacd; /* Dark Turquoise */
+  color: #222021; /* Dark Turquoise */
 }
 
 section {
